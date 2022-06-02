@@ -2,8 +2,8 @@
 This repository includes “Related Products” application which provides a recommended product list of related items in the cart. This worflow explains the recommendation model with an API which retrieves products in the cart as request parameters and returns recommended Top 10 products with their scores by using Python. 
 
 Contents
-* HepsiBuradaRecommendationzip: All necessary files to run all workflow by using Python
-* HepsiburadaRecommendation.ipynb: Jupyter notebook that includes all workflow about assignment
+* RecommendationProduct.zip: All necessary files to run all workflow by using Python
+* RecommendationProduct.ipynb: Jupyter notebook that includes all workflow about assignment
 
 ## Datasets
 There are given two datasets
