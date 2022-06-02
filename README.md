@@ -1,5 +1,5 @@
 # Recommendation Product Assignment
-This repository includes “Related Products” application which provides a recommended product list of related items in the cart. It is submitted to Hepsiburada Recommendation Team as data scientist assignment. This worflow explains the recommendation model with an API which retrieves products in the cart as request parameters and returns recommended Top 10 products with their scores by using Python. 
+This repository includes “Related Products” application which provides a recommended product list of related items in the cart. This worflow explains the recommendation model with an API which retrieves products in the cart as request parameters and returns recommended Top 10 products with their scores by using Python. 
 
 Contents
 * HepsiBuradaRecommendationzip: All necessary files to run all workflow by using Python
